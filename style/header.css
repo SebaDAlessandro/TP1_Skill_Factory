@@ -24,8 +24,13 @@ header {
     flex-wrap: wrap;
     justify-content: space-around;
     margin-right: 30px;
+    padding: 5px;
     white-space: nowrap;
     width: 95%;
+}
+
+.header__list {
+    padding: 5px;
 }
 
 .header__link {
